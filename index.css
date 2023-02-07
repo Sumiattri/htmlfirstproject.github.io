@@ -1,0 +1,72 @@
+body{
+    background: url(" mayank.jpg");
+    background-size:100%;
+    font-family: 'Orbitron', sans-serif;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+   
+    
+
+    .main{
+        display: block;
+        width: 290px;
+        margin-right: auto;
+        margin-left: auto; 
+    }
+    
+    .btn{
+        width:100px ;
+        border: 10px; 
+        border-radius: 7px;
+        padding: 6px 7px;
+        background-color: bisque;
+        font-family: 'Orbitron', sans-serif;
+    }
+    
+    .mayank:hover {
+        background-color: #dee2de;
+        color: rgb(125, 118, 185);
+      }
+        
+    .cta{
+     color: antiquewhite;
+     border-bottom: 3px solid;
+     text-shadow: 1px 3px 3px black;
+    }
+    #main-logo{
+        width: 200px;
+        display: block;
+        margin-right: auto;
+        margin-left: auto;
+    }
+    .sumit{
+        position:relative;
+        left: 210px;
+    }
+    .sandeep{width:100px ;
+        border: 10px; 
+        border-radius: 7px;
+        padding: 6px 7px;
+        background-color: bisque;
+        font-family: 'Orbitron', sans-serif;
+        position:relative;
+        left: 190px;
+    }
+    .sandeep:hover{
+        background-color: #040404;
+        color: rgb(125, 118, 185);
+    }
+    .mayank{
+        
+        width:100px ;
+        border: 10px;
+        border-radius: 7px;
+        padding: 6px 7px;
+        color:white;
+        background-color: rgb(79, 50, 11);
+        font-family: 'Orbitron', sans-serif;
+        position:relative;
+        left: 1000px;
+
+    }
